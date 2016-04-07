@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<infos>
+	<city id="1">
+		<name>厦门</name>
+		<temp>20</temp>
+		<wind>北风3-4级</wind>
+		<weather>多云转阴</weather>
+		<pm>200</pm>
+	</city>
+
+</infos>
